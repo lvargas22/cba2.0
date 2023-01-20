@@ -33,7 +33,7 @@ background-image: linear-gradient(#FFFFFF, rgb(255, 122, 89));
   </section>
   
   <section>
-  <p class="red">This is my class</p>
+  <p class="i like the color red"</p>
     <p id="target">I like this color because it brings a calm dark sense to me</p>
   </section>
   </body>
